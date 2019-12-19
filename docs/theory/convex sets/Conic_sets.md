@@ -10,7 +10,7 @@ nav_order: 3
 The set $S$ is called convex cone, if:
 
 $$
-\forall x_1, x_2 \in S, \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \theta_1 x_1 + \theta_2 x_2 \in S
+\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \theta_1 x_1 + \theta_2 x_2 \in S
 $$
 
 ![center](../convex_cone.svg)
